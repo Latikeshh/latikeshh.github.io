@@ -3,7 +3,7 @@ layout: default
 title: "Coding — Practical, Accurate & Multilingual Programming Resource"
 permalink: /README.html
 ---
-
+h
 # 💻 Coding — Practical, Accurate & Multilingual Programming Resource
 
 > **A comprehensive, open-source educational resource designed to take learners from absolute beginners to software engineering proficiency across Web Development, Systems Programming, Databases, and Version Control.**
